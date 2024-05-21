@@ -12,7 +12,7 @@ public class TestCase extends BaseTest {
 	
 	//To list down the To-do Items
 	
-	String todoitem1 = "Important client meeting at 11 am";
+	String todoitem1 = "Important client meeting at 10 am";
 	String todoitem2 = "Attend mandatory Training at 4 pm";
 	String todoitem3 = "Send mail to Teammate";
 	String todoitem4 = "Cancel 5 pm Meeting";
