@@ -11,13 +11,13 @@ To run the tests on your windows machine. Please, follow below steps.
 
 #### STEPS
 ##### Follow commands to run tests via cmd
-1. 
+1. `git clone `https://github.com/Karzthik/todolist-test-automation`
 2. `cd todo-test-automation`
 3. `mvn install -DskipTests`
 4. `mvn test -Dheadless=on` or `mvn test` (will take values from config.properties)
 
 ##### Follow commands to run tests from eclipse or intelliJ
-1. `git clone `
+1. `git clone `https://github.com/Karzthik/todolist-test-automation`
 2. Import project in IDE as a maven project
 3. Right click on pom.xml -> Run As -> Maven install
 
